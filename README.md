@@ -18,6 +18,7 @@
 
 
 
-![limjustin's github stats](https://github-readme-stats.vercel.app/api?username=limjustin&show_icons=true)           
+![limjustin's github stats](https://github-readme-stats.vercel.app/api?username=limjustin&show_icons=true)        
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjyjustin)](https://solved.ac/limjyjustin)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/haero_kim/)](https://www.instagram.com/jimim1120/)
 
