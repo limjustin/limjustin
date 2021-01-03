@@ -16,9 +16,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 
 
-
-
-![limjustin's github stats](https://github-readme-stats.vercel.app/api?username=limjustin&show_icons=true)        
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjyjustin)](https://solved.ac/limjyjustin)<br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://codenamejy.tistory.com/)](https://codenamejy.tistory.com/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCR5S1IR65_kAEMS7U3FBMNg)](https://www.youtube.com/channel/UCR5S1IR65_kAEMS7U3FBMNg)
