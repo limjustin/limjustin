@@ -22,4 +22,4 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjyjustin)](https://solved.ac/limjyjustin)<br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://codenamejy.tistory.com/)](https://codenamejy.tistory.com/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCR5S1IR65_kAEMS7U3FBMNg)](https://www.youtube.com/channel/UCR5S1IR65_kAEMS7U3FBMNg)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/limjaeng0_0/?hl=ko)](https://www.instagram.com/limjaeng0_0/?hl=ko)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/limjaeng0_0/)](https://www.instagram.com/limjaeng0_0/)
