@@ -1,22 +1,28 @@
-## HELLO!(Jaeyoung Lim, 22, 🇰🇷)
-> 💻 Interested in **Full-Stack Development** and **AI**, especially **Deep Learning**<br>
-> 🔥 Developed several **Android Apps with Java**, **AI Project**<br>
+### Hello World! (Jaeyoung Lim, 22, South Korea)
+> 💻 Interested in **Full-Stack Development** / **Deep Learning** / **Data Analysis**<br>
+> 🔥 Developed several **Web Page with Javascript** / **AI Project with Python** / **Android Apps with Java**<br>
  
-### Languages and Frameworks
-
-<code><img height="20" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png"></code>
-<code><img height="20" src="https://img.favpng.com/13/14/25/the-c-programming-language-png-favpng-x2FKZ86GuA0YStdCDY8nQU5Z4.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+### Languages
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjyjustin)](https://solved.ac/limjyjustin)<br>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://codenamejy.tistory.com/)](https://codenamejy.tistory.com/)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCR5S1IR65_kAEMS7U3FBMNg)](https://www.youtube.com/channel/UCR5S1IR65_kAEMS7U3FBMNg)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/limjaeng0_0/)](https://www.instagram.com/limjaeng0_0/)
+<a href="https://codenamejy.tistory.com">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://codenamejy.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://www.youtube.com/channel/UCR5S1IR65_kAEMS7U3FBMNg">
+    <img 
+        src="http://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&link=https://www.youtube.com/channel/UCR5S1IR65_kAEMS7U3FBMNg/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://www.instagram.com/limjaeng0_0">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/limjaeng0_0/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
