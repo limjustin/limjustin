@@ -1,6 +1,6 @@
 ## HELLO!(Jaeyoung Lim, 22, 🇰🇷)
 > 💻 Interested in **Full-Stack Development** and **AI**, especially **Deep Learning**<br>
-> 🔥 Developed several **Android Apps with Java**, **AI Project** and Studying the **Deep Learning, NLP** and **Algorithm**<br>
+> 🔥 Developed several **Android Apps with Java**, **AI Project**<br>
  
 ### Languages and Frameworks
 
