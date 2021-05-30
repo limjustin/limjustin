@@ -1,4 +1,4 @@
-## History
+### History
 
 🧑‍💻 Student in **Sangmyung University** (2019.03 ~ )
 
@@ -6,6 +6,6 @@
 
 <br>
 
-## Major
+### Major
 
 🦾 Department of **Human-Centered Artificial Intelligence**
