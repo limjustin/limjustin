@@ -1,8 +1,8 @@
 ### History
 
-🧑‍💻 Student in **Sangmyung University** (2019.03 ~ )
+🧑‍💻 Student in **Sangmyung University, Seoul** (2019.03 ~ )
 
-🛩 Osan AB **KOREA AIR FORCE** (2021.02 ~ )
+🛩 Air force in **Air Force Operations Command, Osan AB** (2021.02 ~ )
 
 <br>
 
