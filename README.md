@@ -18,4 +18,4 @@
 
 ### Algorithm Level
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjyjustin)](https://solved.ac/limjyjustin/)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjyjustin)](https://solved.ac/limjyjustin)
