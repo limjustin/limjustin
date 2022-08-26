@@ -13,9 +13,3 @@
 📝 Interested in **Back-end**, **Machine Learning**, **Natural Language Processing**
 
 💻 Skilled at **C++**, **Javascript**, **Python**
-
-<br>
-
-### Algorithm Level
-
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjyjustin)](https://solved.ac/limjyjustin)
