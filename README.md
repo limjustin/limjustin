@@ -8,6 +8,6 @@
 
 🦾 Department of **Human-Centered Artificial Intelligence**
 
-📝 Interested in **Back-end**, **Machine Learning**, **Natural Language Processing**
+📝 Interested in **Back-end**, **Machine Learning**
 
 💻 Skilled at **C++**, **Javascript**, **Python**
