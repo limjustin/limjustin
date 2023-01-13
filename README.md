@@ -12,4 +12,4 @@
 
 📝 Interested in **Back-end**
 
-💻 Skilled at **C++**, **Javascript**, **Python**, **Spring**
+💻 Skilled at **Spring**, **JAVA**, **Javascript**, **C++**
