@@ -2,7 +2,7 @@
 
 🧑🏻‍💻 Student in **Sangmyung University, Seoul** (2019.03 ~ )
 
-👻 [Portfolio](https://github.com/limjustin/JAEYOUNG_STUDIO/blob/master/About%20me/%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9_%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%BC_20221216.pdf)
+👻 [Portfolio](https://jaeyoungstudio.notion.site/I-m-Jaeyoung-b552c2783fa14aae931fe1ef01975a0f)
 
 <br>
 
