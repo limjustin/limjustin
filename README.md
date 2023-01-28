@@ -10,6 +10,6 @@
 
 🦾 Department of **Human-Centered Artificial Intelligence**
 
-📝 Interested in **Back-end**
+📝 Interested in **Back-end**, **AI**
 
-💻 Skilled at **Spring**, **Java**, **Javascript**, **AI**
+💻 Skilled at **Spring**, **Java**, **Javascript**
