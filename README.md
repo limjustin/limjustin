@@ -2,7 +2,7 @@
 
 🧑🏻‍💻 Student in **Sangmyung University, Seoul** (2019.03 ~ )
 
-👻 [Portfolio](https://jaeyoungstudio.notion.site/I-m-Jaeyoung-b552c2783fa14aae931fe1ef01975a0f)
+👻 [Portfolio](https://jaeyoungstudio.notion.site/I-m-Jaeyoung-b552c2783fa14aae931fe1ef01975a0f)  &  ☃️ [Blog](https://codenamejy.tistory.com)
 
 <br>
 
@@ -10,6 +10,6 @@
 
 🦾 Department of **Human-Centered Artificial Intelligence**
 
-📝 Interested in **Back-end**, **AI**
+📝 Interested in **Back-end**, **Artificial Intelligence**
 
 💻 Skilled at **Spring**, **Java**, **Javascript**
