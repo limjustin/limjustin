@@ -1,17 +1,21 @@
 ### About me
 
-🧑🏻‍💻 Student in **Sangmyung University, Seoul** (2019.03 ~ )
+- Student in **Sangmyung University, Seoul** (2019.03 ~ )
 
-👻 Portfolio - **[I'm Jaeyoung](https://jaeyoungstudio.notion.site/I-m-Jaeyoung-b552c2783fa14aae931fe1ef01975a0f)** 
+- Department of **Human-Centered Artificial Intelligence (Major)** & **Computer Science (Minor)**
 
-☃️ Blog - **[CodeName : JY](https://codenamejy.tistory.com)**
+- Interested in **Back-end** / **Artificial Intelligence**
 
-<br>
+- Skilled at **Spring(Java)**
 
-### Major
+---
 
-🦾 Department of **Human-Centered Artificial Intelligence (Major)** / **Computer Science (Minor)**
+   **Github**  |  [github.com/limjustin](https://github.com/limjustin)
 
-📝 Interested in **Back-end** / **Artificial Intelligence**
+   **Blog**  |  [codenamejy.tistory.com](https://codenamejy.tistory.com/)
 
-💻 Skilled at **Spring(Java)**
+   **Notion**  |  [Back-end Study](https://www.notion.so/Back-end-Study-8dc8a44d930241cda4e61ffe8c8e45f9?pvs=21) 
+
+   **Mail**  |  limjyjustin@gmail.com
+
+---
