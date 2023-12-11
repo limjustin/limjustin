@@ -1,12 +1,10 @@
-### About me
+✔️ Student in **Sangmyung University, Seoul** (2019.03 ~ )
 
-- Student in **Sangmyung University, Seoul** (2019.03 ~ )
+✔️ Department of **Human-Centered Artificial Intelligence (Major)** & **Computer Science (Minor)**
 
-- Department of **Human-Centered Artificial Intelligence (Major)** & **Computer Science (Minor)**
+✔️ Interested in **Back-end** / **Artificial Intelligence**
 
-- Interested in **Back-end** / **Artificial Intelligence**
-
-- Skilled at **Spring(Java)**
+✔️ Skilled at **Spring(Java)**
 
 <br>
 
