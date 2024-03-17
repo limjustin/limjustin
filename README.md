@@ -1,6 +1,6 @@
-### Jaeyoung Lim
+### Jaeyoung Lim 🐻
 
-✔️ Student in **Sangmyung University, Seoul** (2019.03 ~ )
+✔️ Student in **Sangmyung University, Seoul**
 
 ✔️ Department of **Human-Centered Artificial Intelligence (Major)** & **Computer Science (Minor)**
 
