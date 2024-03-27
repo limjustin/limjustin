@@ -4,7 +4,7 @@
 
 ✔️ Department of **Human-Centered Artificial Intelligence (Major)** & **Computer Science (Minor)**
 
-✔️ Interested in **Back-end** & **Artificial Intelligence**
+✔️ Interested in **Back-end**
 
 ✔️ Skilled at **Spring(Java)**
 
