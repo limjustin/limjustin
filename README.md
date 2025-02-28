@@ -1,8 +1,8 @@
-### Jaeyoung Lim 🧸
+## Jaeyoung Lim 🧸
 
-✅ MLOps Engineer in **NHN AD**
+■ MLOps Engineer in **NHN AD**
 
-✅ Graduation from **Sangmyung University, Seoul**
+■ Graduation from **Sangmyung University, Seoul**
 
 <br>
 
