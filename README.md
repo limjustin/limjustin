@@ -1,5 +1,4 @@
 ## Jaeyoung Lim 🧸
-
 ■ MLOps Engineer in **NHN AD**
 
 ■ Graduation from **Sangmyung University, Seoul**
@@ -19,22 +18,3 @@
 **Machine Learning**
 
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
-
-
-
-
-### Career
-<img src="https://github.com/user-attachments/assets/803a6892-a581-4a1d-b7a5-24e8d62463cd" width="10%">
-
-
-<details>
-<summary>접기/펼치기 버튼</summary>
-<div markdown="1">
-
-|제목|내용|
-|--|--|
-|1|1|
-|2|10|
-
-</div>
-</details>
